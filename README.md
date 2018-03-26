@@ -1,2 +1,2 @@
-# aws
-scripts for aws
+# AWS
+#Scripts for AWS
